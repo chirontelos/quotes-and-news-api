@@ -53,5 +53,4 @@ const deleteQuote = (req, res) => {
     res.json({ message: `${quote}` })
 }
 
-
 module.exports = { getQuote, deleteQuote }
