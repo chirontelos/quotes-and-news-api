@@ -1,4 +1,4 @@
-[![pt-br](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/chirontelos/quotes-and-news-api/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/chirontelos/quotes-and-news-api/blob/master/README.md)
 #### Introdução
 API simples para buscar citações de personagens, imagens e notícias sobre anime para alimentar um site.
 
